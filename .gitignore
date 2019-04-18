@@ -1,0 +1,5 @@
+PrimeNumber.Test/obj/
+PrimeNumber.Test/bin/
+PrimeNumber.BL/obj/
+PrimeNumber.BL/bin/Debug/netstandard2.0/PrimeNumber.BL.deps.json
+PrimeNumber.BL/bin/Debug/
